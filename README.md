@@ -1,16 +1,17 @@
-### Hi there 👋
+<!-- <div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+</div>   -->
+# <div align="center">Hello!</div>
+### <div align="center">I'm Ali, a DevOps Engineer</div>
 
-<!--
-**maj0rmil4d/maj0rmil4d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=maj0rmil4d&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true">
+</p>
 
-Here are some ideas to get you started:
+<!-- <p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=maj0rmil4d&icon=0&color=0">
+</p> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://linkedin.com/in/maj0rmil4d" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+</p>
