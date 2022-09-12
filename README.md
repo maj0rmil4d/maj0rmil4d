@@ -7,7 +7,7 @@
     <a href="https://www.youtube.com/channel/UCXlgK8y5FsbZiTPOXCS5S4A">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="twitter.com/maj0rmil4d/">
+    <a href="https://twitter.com/maj0rmil4d/">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
@@ -31,7 +31,7 @@ I am a DevOps engineer from Iran.
 
 - :zap: In my free time, I do hacking :)
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]()
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maj0rmil4d/)
 
 ---
 
