@@ -23,7 +23,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 I am a DevOps engineer from Iran.
 - :telescope: I’m working as a DevSecOps engineer on my own startup and accepting projects related to DevSecOps.
 
@@ -67,5 +67,14 @@ I am a DevOps engineer from Iran.
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+https://maj0rmil4d.medium.com/how-to-run-our-own-smart-dns-to-bypass-geo-restrictions-beeeab4f82d7
+
+https://maj0rmil4d.medium.com/how-to-limit-bandwidth-per-connection-on-apache-ratelimit-d59e8057ca7b
+
+https://maj0rmil4d.medium.com/dos-ddos-mitigation-with-pfsense-40abaa7e5e72
+
+https://maj0rmil4d.medium.com/how-to-really-protect-web-servers-with-cloudflare-pfsense-7bd9718f1b12
+
+https://maj0rmil4d.medium.com/seowon-slc-130-router-rce-unlocking-writeup-90854ae2eb0e
 
 
