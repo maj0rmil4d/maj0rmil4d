@@ -21,7 +21,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a DevOps engineer from Iran.
+I am a DevSecOps engineer from Iran.
 - :telescope: I’m working as a DevSecOps engineer on my own startup and accepting projects related to DevSecOps.
 
 - :seedling: Learning about DevSecOps related stuff.
